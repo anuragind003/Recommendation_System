@@ -1,0 +1,501 @@
+Carrer_Goal,Celebrity,Gender,Education,Location,Age,Hobby,Language,Skills,Lifestyle,College,user_id
+IPS,Rohit Sharma,Female,BTech Electrical and Electronics,Bhopal,21,Volleyball,Hindi,Marketing Strategy,Urban,NIT Jaipur,1
+Professor,Sachin Tendulkar,Female,BTech Computational and Data Sciences,Mangaluru,20,Writing,Tamil,Blockchain,Minimalist,NIT Durgapur,2
+IPS,Sara Ali Khan,Male,BTech Metallurgical and Materials,Tiruchirappalli,19,Dancing,Odia,Social Media Management,Minimalist,IIT Bombay,3
+Data Engineer,Varun Dhawan,Female,MTech Chemical,Chennai,23,Drama,Odia,Content Writing,Urban,NIT Warangal,4
+Data Scientist,M. S. Dhoni,Male,MTech Electrical and Electronics,Ranchi,24,Football,Kannada,Data Science,Urban,IIT Madras,5
+Scientist,Ranbir Kapoor,Female,MTech Mining,Tiruchirappalli,24,Basketball,Maithili,Machine Learning,Urban,IIT Madras,6
+Data Analyst,Sachin Tendulkar,Male,MTech Mining,Pune,24,Yoga,Telugu,Game Development,Urban,NIT Jaipur,7
+IPS,Shraddha Kapoor,Female,BTech Electronics and Communication,Patna,18,Drama,Telugu,Cyber Security,Minimalist,IIT BHU,8
+Teacher,Virat Kohli,Female,MTech Computational and Data Sciences,Nashik,23,Photography,Malayalam,Management,Minimalist,NIT Surathkal,9
+App Development,Akshay Kumar,Female,BTech Mining,Raipur,18,Dancing,Hindi,Data Science,Minimalist,NIT Rourkela,10
+Entrepreneur,Rajkummar Rao,Female,MTech Mining,Visakhapatnam,24,Hangout,Punjabi,Management,Urban,NIT Rourkela,11
+Data Scientist,Virat Kohli,Male,MTech Information Technology,Meerut,23,Cricket,Assamese,Mobile App Development,Minimalist,IIT Hyderabad,12
+App Development,Aamir Khan,Male,MTech Civil,Surat,24,Volleyball,Marathi,Product Management,Minimalist,NIT Rourkela,13
+Entrepreneur,Janhvi Kapoor,Male,MTech Computer Science ,Raipur,22,Dancing,Maithili,Product Management,Urban,NIT Bhopal,14
+Software Developer,Akshay Kumar,Female,BTech Computer Science ,Navi Mumbai,20,Football,Maithili,Cloud Computing,Urban,IIT Guwahati,15
+IAS,Anushka Sharma,Female,MTech Civil,Mysore,24,Football,Malayalam,Web Development,Urban,IIT Hyderabad,16
+Teacher,Salman Khan,Female,BTech Computational and Data Sciences,Jalandhar,18,Football,Punjabi,Animation,Urban,IIT Delhi,17
+IPS,Ranbir Kapoor,Female,BTech Computational and Data Sciences,Pune,18,Dancing,Kannada,UI/UX Research,Urban,NIT Warangal,18
+IPS,Salman Khan,Male,BTech Chemical,Tiruchirappalli,19,Learning new skills,Malayalam,Sales and Marketing,Urban,NIT Durgapur,19
+App Development,Priyanka Chopra,Female,BTech Computational and Data Sciences,Ghaziabad,20,Yoga,Gujarati,Cloud Computing,Urban,NIT Bhopal,20
+Teacher,Anushka Sharma,Male,BTech Chemical,Gurgaon,18,Kabaddi,Marathi,Game Development,Minimalist,IIT Kanpur,21
+Data Scientist,Hrithik Roshan,Male,BTech Information Technology,Madurai,21,Attending Cultural Events,Gujarati,Blockchain,Urban,IIT Kharagpur,22
+Software Developer,Sara Ali Khan,Female,BTech Information Technology,Mangaluru,20,Hangout,Tamil,Copywriting,Urban,NIT Allahabad,23
+Data Analyst,Katrina Kaif,Male,BTech Mechanical,Gurgaon,18,Hangout,Assamese,Cyber Security,Urban,NIT Surathkal,24
+IAS,Kriti Sanon,Male,BTech Electrical and Electronics,Gurgaon,20,Hangout,Maithili,Content Writing,Urban,IIT Kharagpur,25
+Teacher,Anil Kapoor,Male,BTech Electrical and Electronics,Meerut,19,Yoga,Tamil,Data Science,Minimalist,IIT Guwahati,26
+Data Scientist,Anil Kapoor,Female,BTech Metallurgical and Materials,Salem,20,WebSeries,Assamese,Blockchain,Urban,NIT Jaipur,27
+Scientist,Ayushmann Khurrana,Male,MTech Mining,Jabalpur,24,PC Gaming,Telugu,Machine Learning,Urban,IIT Guwahati,28
+Web Developer,Vicky Kaushal,Female,MTech Electronics and Communication,Solapur,23,Yoga,Kannada,Photography,Urban,NIT Bhopal,29
+Software Developer,Shraddha Kapoor,Male,MTech Metallurgical and Materials,Rajkot,23,Kabaddi,Gujarati,Content Writing,Urban,NIT Jaipur,30
+Web Developer,Tiger Shroff,Female,MTech Computer Science ,Agra,24,Hiking,Punjabi,Product Management,Minimalist,NIT Bhopal,31
+IPS,Katrina Kaif,Male,BTech Computer Science ,Surat,20,Drama,Assamese,Cloud Computing,Urban,IIT BHU,32
+App Development,Kareena Kapoor,Male,BTech Computational and Data Sciences,Kanpur,20,Cricket,Tamil,Digital Marketing,Urban,IIT Roorkee,33
+Software Developer,Sara Ali Khan,Female,BTech Chemical,Varanasi,21,WebSeries,Marathi,Cloud Computing,Minimalist,NIT Hamirpur,34
+IAS,Alia Bhatt,Female,BTech Mining,Navi Mumbai,20,Yoga,Maithili,Social Media Management,Minimalist,NIT Rourkela,35
+Web Developer,Shahid Kapoor,Male,MTech Mechanical,Gurgaon,22,Reading,Assamese,Cyber Security,Minimalist,IIT Hyderabad,36
+Web Developer,Alia Bhatt,Male,MTech Electronics and Communication,Kolkata,24,Hiking,Telugu,Photography,Urban,NIT Surathkal,37
+IAS,Alia Bhatt,Female,BTech Metallurgical and Materials,Hyderabad,19,Hockey,Malayalam,Data Science,Urban,NIT Surathkal,38
+Teacher,Ranveer Singh,Female,BTech Mining,Kanpur,21,Chess,Telugu,Web Development,Minimalist,IIT Delhi,39
+Web Developer,Priyanka Chopra,Female,MTech Chemical,Amritsar,24,Running,Kannada,Digital Marketing,Urban,IIT Bombay,40
+Software Developer,Ranbir Kapoor,Male,MTech Civil,Nagpur,24,Kabaddi,Tamil,Data Analysis,Urban,IIT Guwahati,41
+Data Scientist,Katrina Kaif,Male,BTech Information Technology,Ahmedabad,19,Attending Cultural Events,Hindi,Animation,Urban,NIT Rourkela,42
+Data Scientist,Anushka Sharma,Male,MTech Chemical,Surathkal,24,Volleyball,Malayalam,Data Visualization,Urban,NIT Trichy,43
+IPS,M. S. Dhoni,Female,BTech Metallurgical and Materials,Gwalior,18,Cricket,Malayalam,Management,Minimalist,IIT Indore,44
+Web Developer,Sachin Tendulkar,Male,BTech Mechanical,Pune,20,Singing,Marathi,Trading,Urban,NIT Jamshedpur,45
+Teacher,Deepika Padukone,Female,MTech Electronics and Communication,Vadodara,22,Anime,Gujarati,Mobile App Development,Minimalist,NIT Rourkela,46
+Teacher,Alia Bhatt,Female,BTech Metallurgical and Materials,Mumbai,21,Hangout,Odia,Trading,Urban,IIT Delhi,47
+Entrepreneur,Priyanka Chopra,Male,MTech Civil,Hyderabad,23,Singing,Tamil,Social Media Management,Urban,IIT Madras,48
+Web Developer,Anil Kapoor,Female,BTech Computer Science ,Patna,19,Painting,Malayalam,Cloud Computing,Urban,IIT Gandhinagar,49
+IPS,Deepika Padukone,Female,BTech Information Technology,Raipur,18,Swimming,Marathi,Digital Marketing,Urban,NIT Hamirpur,50
+Data Engineer,M. S. Dhoni,Female,BTech Mining,Lucknow,20,Hangout,Punjabi,Data Science,Minimalist,NIT Allahabad,51
+Data Engineer,Varun Dhawan,Female,MTech Civil,Bhopal,24,Football,Marathi,Data Analysis,Minimalist,IIT Kanpur,52
+Scientist,Sachin Tendulkar,Male,BTech Chemical,Ranchi,19,Hiking,Hindi,Copywriting,Minimalist,IIT Madras,53
+IPS,Amitabh Bachchan,Male,BTech Electronics and Communication,Rajkot,20,Yoga,Odia,Data Science,Minimalist,IIT Indore,54
+IPS,Salman Khan,Male,MTech Mining,Surat,24,Dancing,Gujarati,Data Analysis,Urban,NIT Trichy,55
+Teacher,Vicky Kaushal,Female,BTech Metallurgical and Materials,Gwalior,18,Kabaddi,Tamil,UI/UX Design,Minimalist,NIT Jaipur,56
+Entrepreneur,Ranveer Singh,Female,MTech Mechanical,Thane,22,PC Gaming,Hindi,Digital Marketing,Urban,IIT Kharagpur,57
+Professor,Akshay Kumar,Female,BTech Metallurgical and Materials,Aurangabad,20,Singing,Maithili,Project Management,Urban,NIT Bhopal,58
+IAS,Tiger Shroff,Male,MTech Electronics and Communication,Ludhiana,23,Hiking,Gujarati,Video Editing,Urban,IIT Bombay,59
+Web Developer,Shahid Kapoor,Male,BTech Civil,Navi Mumbai,19,Reading,Kannada,Trading,Urban,NIT Hamirpur,60
+IPS,Anil Kapoor,Male,BTech Metallurgical and Materials,Bhopal,21,Hockey,Maithili,Data Science,Urban,IIT Guwahati,61
+Data Analyst,Shah Rukh Khan,Male,MTech Information Technology,Guwahati,24,Hangout,Marathi,Content Writing,Urban,IIT Gandhinagar,62
+Entrepreneur,Shahid Kapoor,Male,BTech Electronics and Communication,Nashik,19,Volleyball,Hindi,Data Science,Minimalist,IIT Gandhinagar,63
+Data Engineer,Shraddha Kapoor,Male,BTech Metallurgical and Materials,Rajkot,18,Writing,Odia,Photography,Urban,NIT Jamshedpur,64
+Web Developer,Kareena Kapoor,Female,MTech Information Technology,Mangaluru,22,Hangout,Punjabi,Product Management,Urban,NIT Hamirpur,65
+App Development,Kareena Kapoor,Male,BTech Mining,Navi Mumbai,18,Photography,Malayalam,Project Management,Urban,NIT Jamshedpur,66
+IAS,Alia Bhatt,Male,BTech Information Technology,Bareilly,20,PC Gaming,Kannada,UI/UX Design,Urban,IIT Kanpur,67
+Professor,Ranveer Singh,Female,BTech Mechanical,Thane,21,Reading,Assamese,Game Development,Minimalist,NIT Kurukshetra,68
+Web Developer,Priyanka Chopra,Female,MTech Metallurgical and Materials,Navi Mumbai,23,Hiking,Gujarati,Sales and Marketing,Urban,NIT Surathkal,69
+Teacher,Vicky Kaushal,Female,BTech Civil,Tiruchirappalli,20,Hangout,Assamese,Marketing Strategy,Minimalist,NIT Jamshedpur,70
+IPS,Anil Kapoor,Male,BTech Metallurgical and Materials,Nagpur,21,PC Gaming,Maithili,Product Management,Minimalist,NIT Warangal,71
+IAS,Rajkummar Rao,Female,MTech Computer Science ,Dhanbad,22,Photography,Punjabi,Project Management,Urban,NIT Kurukshetra,72
+Data Engineer,Salman Khan,Female,BTech Mining,Mira and Bhayander,19,Yoga,Gujarati,Cyber Security,Urban,IIT Delhi,73
+App Development,Alia Bhatt,Male,BTech Electrical and Electronics,Visakhapatnam,21,PC Gaming,Odia,Animation,Minimalist,NIT Warangal,74
+Scientist,Janhvi Kapoor,Male,MTech Chemical,Raipur,23,Kabaddi,Hindi,Data Science,Minimalist,NIT Bhopal,75
+IAS,Varun Dhawan,Female,BTech Mining,Chandigarh,18,Running,Assamese,Cloud Computing,Minimalist,IIT BHU,76
+Entrepreneur,Aamir Khan,Male,BTech Information Technology,Mangaluru,19,Singing,Marathi,Blockchain,Minimalist,IIT Roorkee,77
+IPS,Priyanka Chopra,Male,MTech Electrical and Electronics,Vadodara,22,Reading,Marathi,Social Media Management,Urban,IIT Bombay,78
+Teacher,Amitabh Bachchan,Female,MTech Civil,Jaipur,22,Football,Malayalam,Cloud Computing,Urban,IIT Kharagpur,79
+Software Developer,Anushka Sharma,Male,MTech Computational and Data Sciences,Solapur,23,Manga,Bengali,Project Management,Urban,NIT Bhopal,80
+Data Scientist,Rohit Sharma,Male,BTech Electronics and Communication,Rajkot,20,Mobile Gaming,Hindi,Data Science,Minimalist,IIT Hyderabad,81
+Teacher,Kareena Kapoor,Female,BTech Information Technology,Hyderabad,20,Running,Maithili,Cloud Computing,Minimalist,IIT Bombay,82
+Data Scientist,Tiger Shroff,Male,BTech Computational and Data Sciences,Kolkata,21,Hangout,Hindi,Content Writing,Urban,IIT Hyderabad,83
+Web Developer,Vicky Kaushal,Male,MTech Metallurgical and Materials,Kolkata,23,Reading,Kannada,Product Management,Urban,NIT Rourkela,84
+Teacher,Priyanka Chopra,Male,BTech Metallurgical and Materials,Bhopal,18,Hockey,Hindi,Product Management,Urban,IIT Indore,85
+Data Scientist,Hrithik Roshan,Female,BTech Metallurgical and Materials,Salem,20,Mobile Gaming,Hindi,Mobile App Development,Urban,IIT Madras,86
+IPS,Shah Rukh Khan,Male,MTech Metallurgical and Materials,Guwahati,22,Running,Maithili,DevOps,Minimalist,NIT Durgapur,87
+Scientist,Shah Rukh Khan,Male,MTech Computer Science ,Delhi,22,WebSeries,Malayalam,DevOps,Minimalist,NIT Jamshedpur,88
+Software Developer,Ranbir Kapoor,Male,BTech Information Technology,Bareilly,19,Hockey,Bengali,Data Analysis,Minimalist,IIT Roorkee,89
+Data Analyst,Aishwarya Rai Bachchan,Male,MTech Information Technology,Mira and Bhayander,23,Learning new skills,Bengali,DevOps,Urban,NIT Kurukshetra,90
+Teacher,Ayushmann Khurrana,Female,BTech Mechanical,Kolkata,19,Anime,Odia,Trading,Urban,NIT Warangal,91
+Entrepreneur,Virat Kohli,Male,BTech Metallurgical and Materials,Ahmedabad,21,Volleyball,Bengali,Photography,Minimalist,NIT Warangal,92
+App Development,Priyanka Chopra,Male,MTech Computational and Data Sciences,Salem,24,Cricket,Hindi,Data Science,Minimalist,IIT Roorkee,93
+Teacher,Virat Kohli,Female,MTech Civil,Nashik,22,Hangout,Maithili,Project Management,Urban,NIT Allahabad,94
+Data Analyst,Akshay Kumar,Male,MTech Information Technology,Coimbatore,22,Cricket,Maithili,Data Analysis,Minimalist,NIT Rourkela,95
+Professor,Rohit Sharma,Male,MTech Civil,Jodhpur,22,Football,Punjabi,Content Writing,Urban,NIT Kurukshetra,96
+Data Scientist,Salman Khan,Female,BTech Information Technology,Mysore,21,Drama,Gujarati,Blockchain,Urban,IIT Indore,97
+Data Engineer,Vicky Kaushal,Female,MTech Mining,Srinagar,23,Cricket,Malayalam,Management,Urban,NIT Kurukshetra,98
+Software Developer,Vicky Kaushal,Male,BTech Information Technology,Nashik,19,Dancing,Assamese,Data Science,Urban,IIT Bombay,99
+Entrepreneur,Ayushmann Khurrana,Female,BTech Chemical,Nashik,20,Reading,Gujarati,Management,Urban,IIT Jodhpur,100
+Software Developer,Kriti Sanon,Female,BTech Computer Science ,Navi Mumbai,20,Hockey,Odia,Management,Urban,IIT Hyderabad,101
+App Development,Tiger Shroff,Male,BTech Metallurgical and Materials,Allahabad,19,Cricket,Telugu,Social Media Management,Minimalist,IIT Bombay,102
+Professor,Aamir Khan,Female,BTech Information Technology,Varanasi,18,Meditation,Punjabi,Blockchain,Urban,NIT Durgapur,103
+Software Developer,Salman Khan,Female,MTech Computer Science ,Gurgaon,23,Tennis,Gujarati,Data Analysis,Urban,NIT Rourkela,104
+Entrepreneur,Salman Khan,Male,MTech Civil,Gwalior,22,WebSeries,Kannada,UI/UX Research,Minimalist,NIT Durgapur,105
+Teacher,Aishwarya Rai Bachchan,Male,BTech Electrical and Electronics,Kota,21,Anime,Hindi,Game Development,Urban,NIT Warangal,106
+Professor,Kriti Sanon,Male,BTech Mining,Chennai,19,Chess,Bengali,Photography,Urban,IIT Kanpur,107
+IAS,Vicky Kaushal,Male,MTech Mining,Pune,22,Anime,Assamese,Graphic Design,Minimalist,IIT Jodhpur,108
+Data Scientist,Amitabh Bachchan,Male,MTech Mechanical,Solapur,24,Mobile Gaming,Malayalam,Product Management,Urban,NIT Kurukshetra,109
+IAS,Amitabh Bachchan,Male,MTech Mining,Solapur,22,Hiking,Marathi,Management,Urban,IIT Gandhinagar,110
+Data Scientist,Katrina Kaif,Male,BTech Mechanical,Jaipur,20,Painting,Malayalam,Photography,Urban,IIT Roorkee,111
+Teacher,Vicky Kaushal,Male,BTech Electronics and Communication,Surathkal,18,Volleyball,Odia,Data Analysis,Urban,NIT Rourkela,112
+App Development,Shraddha Kapoor,Male,MTech Mining,Nagpur,24,Anime,Maithili,Video Editing,Minimalist,NIT Hamirpur,113
+Web Developer,Kriti Sanon,Female,MTech Information Technology,Vadodara,24,Dancing,Hindi,Digital Marketing,Minimalist,IIT Guwahati,114
+Teacher,Sachin Tendulkar,Male,MTech Chemical,Jaipur,24,Tennis,Marathi,Content Writing,Minimalist,IIT BHU,115
+App Development,Priyanka Chopra,Female,BTech Civil,Salem,18,Singing,Hindi,Social Media Management,Minimalist,IIT Delhi,116
+IPS,Akshay Kumar,Female,BTech Mechanical,Mumbai,18,Meditation,Bengali,Web Development,Minimalist,NIT Rourkela,117
+Software Developer,Shraddha Kapoor,Male,BTech Chemical,Chandigarh,20,Hangout,Bengali,Mobile App Development,Urban,IIT Bombay,118
+Teacher,Shah Rukh Khan,Female,MTech Metallurgical and Materials,Rajkot,23,Swimming,Punjabi,Content Writing,Minimalist,NIT Warangal,119
+Data Analyst,Sachin Tendulkar,Male,BTech Metallurgical and Materials,Ludhiana,18,Drama,Maithili,Data Analysis,Urban,IIT Hyderabad,120
+App Development,Kareena Kapoor,Female,MTech Chemical,Coimbatore,22,Hockey,Gujarati,Project Management,Minimalist,NIT Allahabad,121
+Software Developer,Anil Kapoor,Male,BTech Civil,Vadodara,19,Volleyball,Hindi,Digital Marketing,Minimalist,NIT Bhopal,122
+Software Developer,Kareena Kapoor,Female,MTech Mechanical,Rajkot,23,Learning new skills,Telugu,Project Management,Urban,NIT Surathkal,123
+App Development,Shah Rukh Khan,Male,MTech Civil,Jaipur,23,PC Gaming,Hindi,Digital Marketing,Urban,NIT Surathkal,124
+Data Engineer,Deepika Padukone,Male,MTech Metallurgical and Materials,Ranchi,22,Manga,Assamese,UI/UX Design,Urban,IIT Roorkee,125
+Teacher,Katrina Kaif,Female,BTech Metallurgical and Materials,Delhi,18,Reading,Marathi,Mobile App Development,Urban,NIT Bhopal,126
+Data Analyst,Anushka Sharma,Male,BTech Chemical,Jabalpur,20,Anime,Telugu,Sales and Marketing,Minimalist,IIT Roorkee,127
+Data Analyst,Rohit Sharma,Male,MTech Information Technology,Bhopal,24,Cricket,Tamil,Digital Marketing,Minimalist,NIT Jamshedpur,128
+App Development,Ranveer Singh,Male,MTech Metallurgical and Materials,Jodhpur,22,Hiking,Telugu,Data Analysis,Urban,NIT Hamirpur,129
+Data Scientist,Ranbir Kapoor,Female,BTech Mechanical,Surathkal,21,Chess,Punjabi,UI/UX Design,Urban,NIT Warangal,130
+Data Engineer,Aamir Khan,Male,BTech Civil,Tiruchirappalli,18,Swimming,Hindi,Data Visualization,Urban,IIT Madras,131
+Entrepreneur,Janhvi Kapoor,Female,MTech Metallurgical and Materials,Ranchi,24,WebSeries,Assamese,Sales and Marketing,Urban,IIT Kanpur,132
+Teacher,Sara Ali Khan,Male,BTech Metallurgical and Materials,Bengaluru,20,Football,Malayalam,Machine Learning,Urban,NIT Kurukshetra,133
+Scientist,Akshay Kumar,Male,MTech Information Technology,Mangaluru,22,Swimming,Bengali,Game Development,Urban,IIT Delhi,134
+Entrepreneur,M. S. Dhoni,Female,BTech Metallurgical and Materials,Jalandhar,20,Attending Cultural Events,Maithili,Machine Learning,Minimalist,NIT Durgapur,135
+IAS,Anil Kapoor,Female,BTech Information Technology,Navi Mumbai,21,Writing,Telugu,UI/UX Research,Urban,NIT Trichy,136
+App Development,Aamir Khan,Male,MTech Computer Science ,Hyderabad,22,Drama,Bengali,Mobile App Development,Urban,IIT Indore,137
+IAS,Shraddha Kapoor,Male,BTech Computational and Data Sciences,Patna,20,Football,Assamese,Product Management,Minimalist,NIT Durgapur,138
+Entrepreneur,Aishwarya Rai Bachchan,Female,MTech Electronics and Communication,Nagpur,22,Mobile Gaming,Maithili,Project Management,Urban,NIT Jamshedpur,139
+Entrepreneur,Alia Bhatt,Female,BTech Mining,Srinagar,19,Chess,Tamil,Data Analysis,Minimalist,NIT Jaipur,140
+Web Developer,Virat Kohli,Male,BTech Metallurgical and Materials,Bhopal,20,Learning new skills,Odia,Mobile App Development,Minimalist,IIT Guwahati,141
+Software Developer,Aishwarya Rai Bachchan,Female,BTech Computational and Data Sciences,Indore,21,Hockey,Malayalam,Marketing Strategy,Urban,NIT Hamirpur,142
+Software Developer,Shraddha Kapoor,Male,MTech Electrical and Electronics,Navi Mumbai,22,Badminton,Kannada,Social Media Management,Urban,IIT Madras,143
+Data Engineer,Rohit Sharma,Female,MTech Metallurgical and Materials,Nashik,24,Learning new skills,Kannada,Data Science,Urban,IIT Gandhinagar,144
+Data Scientist,Kriti Sanon,Male,MTech Electronics and Communication,Jalandhar,23,Meditation,Marathi,Video Editing,Urban,NIT Bhopal,145
+IPS,Priyanka Chopra,Male,MTech Mining,Hubli and Dharwad,24,Hockey,Assamese,Data Visualization,Urban,NIT Surathkal,146
+Data Analyst,Anil Kapoor,Male,MTech Chemical,Madurai,24,PC Gaming,Maithili,Trading,Minimalist,IIT Roorkee,147
+IPS,Sara Ali Khan,Female,MTech Computer Science ,Varanasi,24,Kabaddi,Telugu,DevOps,Urban,NIT Bhopal,148
+IPS,Aamir Khan,Male,MTech Electronics and Communication,Coimbatore,23,Manga,Bengali,Machine Learning,Urban,IIT BHU,149
+Professor,Katrina Kaif,Male,BTech Electrical and Electronics,Bhopal,18,Basketball,Odia,UI/UX Research,Urban,IIT Jodhpur,150
+Web Developer,Kareena Kapoor,Male,BTech Metallurgical and Materials,Indore,20,Running,Marathi,Web Development,Minimalist,NIT Trichy,151
+Teacher,Amitabh Bachchan,Female,MTech Civil,Mysore,23,Tennis,Telugu,Copywriting,Urban,NIT Durgapur,152
+Entrepreneur,Ranveer Singh,Male,MTech Chemical,Bhubaneswar,24,Football,Maithili,Management,Urban,IIT Delhi,153
+Software Developer,Virat Kohli,Male,BTech Mining,Indore,18,Chess,Hindi,Management,Urban,IIT Indore,154
+Web Developer,Priyanka Chopra,Female,BTech Civil,Pune,20,Singing,Punjabi,Data Visualization,Minimalist,IIT BHU,155
+Software Developer,Alia Bhatt,Female,MTech Electrical and Electronics,Solapur,22,Attending Cultural Events,Gujarati,Blockchain,Urban,NIT Kurukshetra,156
+Entrepreneur,Aishwarya Rai Bachchan,Male,MTech Computer Science ,Aurangabad,22,Manga,Assamese,Machine Learning,Minimalist,IIT Indore,157
+IAS,Shah Rukh Khan,Female,MTech Chemical,Salem,24,Chess,Gujarati,Management,Minimalist,IIT Guwahati,158
+Professor,Rohit Sharma,Male,MTech Mining,Coimbatore,23,Meditation,Assamese,Copywriting,Urban,NIT Surathkal,159
+Data Scientist,Tiger Shroff,Female,MTech Electrical and Electronics,Hubli and Dharwad,24,Drama,Telugu,Digital Marketing,Minimalist,NIT Jamshedpur,160
+Teacher,Kriti Sanon,Male,MTech Chemical,Kota,24,Hockey,Odia,Data Analysis,Urban,IIT Madras,161
+Data Engineer,Kareena Kapoor,Male,BTech Chemical,Vadodara,19,Singing,Assamese,Game Development,Minimalist,IIT Hyderabad,162
+Data Engineer,Rajkummar Rao,Male,MTech Information Technology,Patna,23,Chess,Hindi,Copywriting,Minimalist,NIT Rourkela,163
+Scientist,Kareena Kapoor,Male,BTech Electrical and Electronics,Haora,18,Manga,Bengali,Data Science,Urban,NIT Rourkela,164
+IPS,Sara Ali Khan,Female,MTech Civil,Solapur,22,Tennis,Tamil,Trading,Urban,IIT Roorkee,165
+Entrepreneur,Anil Kapoor,Male,BTech Information Technology,Amritsar,21,Reading,Bengali,Animation,Minimalist,IIT Madras,166
+IPS,Rajkummar Rao,Female,MTech Mechanical,Surathkal,23,Football,Assamese,Mobile App Development,Urban,IIT Kanpur,167
+IAS,Katrina Kaif,Female,BTech Information Technology,Ranchi,21,Hiking,Maithili,Cyber Security,Urban,IIT Jodhpur,168
+Data Analyst,Sara Ali Khan,Male,BTech Metallurgical and Materials,Aurangabad,21,PC Gaming,Tamil,Public Speaking,Urban,NIT Surathkal,169
+App Development,Kareena Kapoor,Male,MTech Electronics and Communication,Delhi,23,Swimming,Odia,Social Media Management,Urban,IIT Bombay,170
+Professor,Ranbir Kapoor,Male,BTech Mechanical,Coimbatore,21,Cricket,Hindi,Social Media Management,Minimalist,IIT Madras,171
+Teacher,Ranbir Kapoor,Female,BTech Information Technology,Srinagar,19,Anime,Tamil,Digital Marketing,Urban,IIT Jodhpur,172
+Teacher,Shah Rukh Khan,Male,MTech Civil,Haora,23,Kabaddi,Assamese,Graphic Design,Urban,NIT Allahabad,173
+Teacher,Hrithik Roshan,Female,BTech Metallurgical and Materials,Ranchi,20,Yoga,Odia,UI/UX Design,Urban,IIT BHU,174
+Software Developer,Janhvi Kapoor,Male,BTech Electrical and Electronics,Aurangabad,20,Yoga,Maithili,UI/UX Research,Minimalist,IIT Indore,175
+Teacher,Anushka Sharma,Female,BTech Metallurgical and Materials,Surathkal,20,Photography,Odia,Animation,Urban,IIT Kharagpur,176
+Entrepreneur,Ayushmann Khurrana,Male,MTech Information Technology,Amritsar,22,Chess,Malayalam,Machine Learning,Minimalist,NIT Durgapur,177
+Web Developer,Rajkummar Rao,Male,BTech Mechanical,Vadodara,18,Hangout,Malayalam,Data Science,Urban,NIT Kurukshetra,178
+IPS,Virat Kohli,Male,BTech Electronics and Communication,Jodhpur,21,Kabaddi,Odia,UI/UX Research,Minimalist,NIT Trichy,179
+Teacher,Ranveer Singh,Female,BTech Electronics and Communication,Agra,21,Hangout,Malayalam,Product Management,Urban,IIT Delhi,180
+Scientist,Rohit Sharma,Female,BTech Metallurgical and Materials,Nagpur,19,Football,Gujarati,Graphic Design,Urban,IIT Madras,181
+IAS,Anil Kapoor,Male,MTech Metallurgical and Materials,Surat,24,Meditation,Maithili,Cloud Computing,Urban,IIT Roorkee,182
+Entrepreneur,Ayushmann Khurrana,Female,MTech Mining,Navi Mumbai,23,Running,Malayalam,Content Writing,Minimalist,NIT Trichy,183
+Software Developer,Priyanka Chopra,Male,MTech Electronics and Communication,Surathkal,22,PC Gaming,Odia,UI/UX Design,Minimalist,NIT Trichy,184
+IPS,Katrina Kaif,Female,MTech Chemical,Meerut,23,Swimming,Punjabi,Copywriting,Urban,IIT Madras,185
+Teacher,Salman Khan,Male,MTech Electronics and Communication,Meerut,22,Hangout,Malayalam,Data Science,Minimalist,IIT Gandhinagar,186
+IPS,Katrina Kaif,Male,MTech Information Technology,Lucknow,23,Photography,Telugu,Digital Marketing,Minimalist,IIT Roorkee,187
+Data Scientist,Anushka Sharma,Male,BTech Metallurgical and Materials,Kanpur,20,Chess,Malayalam,Data Visualization,Urban,IIT Roorkee,188
+Web Developer,Ranbir Kapoor,Female,MTech Civil,Pune,24,Painting,Assamese,Web Development,Urban,IIT Hyderabad,189
+Teacher,Sachin Tendulkar,Male,BTech Electronics and Communication,Allahabad,18,Manga,Malayalam,Data Visualization,Urban,NIT Jaipur,190
+Data Engineer,Alia Bhatt,Male,MTech Mechanical,Jaipur,22,Volleyball,Gujarati,Content Writing,Urban,IIT Hyderabad,191
+Entrepreneur,Virat Kohli,Male,MTech Mechanical,Varanasi,24,Volleyball,Tamil,Sales and Marketing,Minimalist,IIT Kharagpur,192
+Entrepreneur,Rajkummar Rao,Female,BTech Electronics and Communication,Mangaluru,21,Hangout,Tamil,Data Analysis,Minimalist,IIT Delhi,193
+IPS,Sachin Tendulkar,Male,MTech Computer Science ,Jodhpur,23,Cricket,Hindi,Animation,Minimalist,IIT Kanpur,194
+Software Developer,Ranbir Kapoor,Female,MTech Computer Science ,Bareilly,23,Reading,Gujarati,UI/UX Design,Urban,NIT Kurukshetra,195
+IPS,Hrithik Roshan,Female,MTech Computational and Data Sciences,Nashik,24,Photography,Maithili,Project Management,Urban,IIT Bombay,196
+Web Developer,Shraddha Kapoor,Male,BTech Computer Science ,Dhanbad,19,PC Gaming,Punjabi,Blockchain,Minimalist,IIT Hyderabad,197
+IAS,Anushka Sharma,Male,BTech Metallurgical and Materials,Mumbai,21,Reading,Marathi,Social Media Management,Minimalist,NIT Allahabad,198
+Data Analyst,Katrina Kaif,Female,BTech Mechanical,Rajkot,20,Hiking,Gujarati,Animation,Minimalist,IIT Madras,199
+Software Developer,Aamir Khan,Female,MTech Metallurgical and Materials,Surat,23,Chess,Odia,Management,Minimalist,NIT Allahabad,200
+Data Scientist,Salman Khan,Male,BTech Electrical and Electronics,Srinagar,19,Attending Cultural Events,Tamil,Marketing Strategy,Minimalist,IIT Gandhinagar,201
+Professor,Priyanka Chopra,Male,BTech Electronics and Communication,Guwahati,20,Swimming,Telugu,Blockchain,Urban,IIT Madras,202
+Teacher,Rohit Sharma,Female,BTech Metallurgical and Materials,Jabalpur,21,Reading,Marathi,Data Analysis,Urban,NIT Hamirpur,203
+Data Scientist,Aamir Khan,Male,BTech Mechanical,Ranchi,18,Singing,Odia,Marketing Strategy,Minimalist,NIT Allahabad,204
+Teacher,Anushka Sharma,Female,MTech Electronics and Communication,Tiruchirappalli,24,Cricket,Odia,Project Management,Minimalist,IIT Delhi,205
+IPS,Anushka Sharma,Male,MTech Chemical,Srinagar,22,Football,Assamese,Data Analysis,Urban,NIT Rourkela,206
+Scientist,Alia Bhatt,Male,BTech Mechanical,Madurai,20,Photography,Marathi,Copywriting,Urban,NIT Warangal,207
+Data Engineer,M. S. Dhoni,Female,BTech Computer Science ,Lucknow,20,Swimming,Tamil,Machine Learning,Minimalist,IIT Delhi,208
+Data Engineer,Ranveer Singh,Male,MTech Mining,Coimbatore,22,Badminton,Marathi,UI/UX Research,Urban,NIT Rourkela,209
+Data Analyst,Shah Rukh Khan,Female,BTech Electronics and Communication,Nagpur,21,Painting,Telugu,Marketing Strategy,Urban,IIT Hyderabad,210
+Web Developer,Ayushmann Khurrana,Male,MTech Information Technology,Agra,24,Singing,Malayalam,Public Speaking,Urban,IIT Kharagpur,211
+Data Analyst,Kareena Kapoor,Male,BTech Computer Science ,Navi Mumbai,18,Meditation,Kannada,UI/UX Research,Minimalist,NIT Allahabad,212
+Data Scientist,Sachin Tendulkar,Male,BTech Information Technology,Tiruchirappalli,20,Volleyball,Punjabi,UI/UX Design,Minimalist,NIT Jamshedpur,213
+Scientist,Ayushmann Khurrana,Male,BTech Metallurgical and Materials,Kolkata,20,Drama,Malayalam,Animation,Urban,IIT Indore,214
+Scientist,Kriti Sanon,Female,MTech Metallurgical and Materials,Meerut,23,Meditation,Kannada,Video Editing,Minimalist,NIT Surathkal,215
+Entrepreneur,Rajkummar Rao,Male,BTech Mining,Nagpur,19,Painting,Bengali,Cloud Computing,Urban,NIT Durgapur,216
+Teacher,Virat Kohli,Male,BTech Information Technology,Nashik,21,Anime,Tamil,Mobile App Development,Urban,IIT Delhi,217
+Professor,Ayushmann Khurrana,Male,BTech Computer Science ,Pune,20,Badminton,Tamil,UI/UX Design,Minimalist,NIT Trichy,218
+Professor,Alia Bhatt,Female,BTech Electronics and Communication,Madurai,21,Dancing,Telugu,Graphic Design,Minimalist,IIT Kanpur,219
+App Development,Shahid Kapoor,Female,MTech Civil,Surathkal,23,Singing,Marathi,Social Media Management,Minimalist,NIT Rourkela,220
+Data Engineer,Sara Ali Khan,Female,BTech Mining,Ludhiana,18,Hiking,Telugu,DevOps,Minimalist,IIT Bombay,221
+Scientist,Deepika Padukone,Female,BTech Electronics and Communication,Amritsar,21,PC Gaming,Bengali,Machine Learning,Urban,NIT Warangal,222
+IPS,Deepika Padukone,Male,MTech Metallurgical and Materials,Kanpur,23,Hangout,Tamil,Content Writing,Urban,NIT Warangal,223
+IPS,Deepika Padukone,Male,BTech Computational and Data Sciences,Gurgaon,19,Swimming,Tamil,Public Speaking,Urban,NIT Kurukshetra,224
+Professor,Alia Bhatt,Female,BTech Mining,Tiruchirappalli,20,Hockey,Malayalam,Social Media Management,Urban,IIT Kharagpur,225
+Professor,Amitabh Bachchan,Male,BTech Computational and Data Sciences,Dhanbad,19,Kabaddi,Marathi,Cloud Computing,Urban,IIT Roorkee,226
+IPS,Virat Kohli,Female,MTech Information Technology,Gwalior,23,Writing,Bengali,Data Analysis,Minimalist,IIT Kanpur,227
+Professor,Katrina Kaif,Male,MTech Mechanical,Gurgaon,22,Chess,Odia,Video Editing,Urban,IIT BHU,228
+Web Developer,Ranbir Kapoor,Female,MTech Civil,Gwalior,23,Reading,Odia,Graphic Design,Minimalist,NIT Bhopal,229
+Software Developer,Katrina Kaif,Male,MTech Computational and Data Sciences,Kanpur,24,Badminton,Bengali,Product Management,Minimalist,IIT BHU,230
+Web Developer,Tiger Shroff,Male,BTech Metallurgical and Materials,Nashik,21,Hiking,Tamil,Game Development,Minimalist,NIT Bhopal,231
+Data Analyst,Vicky Kaushal,Male,MTech Metallurgical and Materials,Ranchi,23,Chess,Bengali,Content Writing,Urban,IIT Bombay,232
+Entrepreneur,Anil Kapoor,Female,MTech Civil,Lucknow,22,Reading,Odia,Sales and Marketing,Urban,NIT Kurukshetra,233
+IAS,Janhvi Kapoor,Male,BTech Computer Science ,Bengaluru,18,Singing,Gujarati,Game Development,Urban,IIT Jodhpur,234
+IAS,Shahid Kapoor,Male,MTech Civil,Nagpur,23,Yoga,Maithili,Copywriting,Urban,IIT Jodhpur,235
+App Development,Sara Ali Khan,Male,MTech Civil,Allahabad,23,Kabaddi,Hindi,Graphic Design,Minimalist,IIT Kharagpur,236
+App Development,Salman Khan,Male,BTech Mechanical,Indore,20,Learning new skills,Assamese,Game Development,Urban,IIT Delhi,237
+IPS,Sara Ali Khan,Male,MTech Mechanical,Nashik,22,Painting,Punjabi,Blockchain,Urban,IIT Bombay,238
+Teacher,Katrina Kaif,Male,BTech Information Technology,Aurangabad,21,Basketball,Punjabi,UI/UX Design,Minimalist,NIT Rourkela,239
+IPS,Shah Rukh Khan,Female,BTech Mining,Gurgaon,19,Tennis,Hindi,Blockchain,Urban,IIT Gandhinagar,240
+Data Analyst,Rohit Sharma,Male,MTech Mechanical,Visakhapatnam,24,WebSeries,Bengali,Data Science,Minimalist,IIT Indore,241
+Scientist,Kriti Sanon,Female,BTech Metallurgical and Materials,Haora,19,Chess,Telugu,Data Visualization,Minimalist,NIT Trichy,242
+Software Developer,Vicky Kaushal,Male,BTech Civil,Chandigarh,20,Attending Cultural Events,Telugu,DevOps,Minimalist,IIT Kharagpur,243
+Entrepreneur,Deepika Padukone,Female,BTech Metallurgical and Materials,Kolkata,21,Writing,Odia,Cloud Computing,Urban,IIT BHU,244
+Web Developer,Shah Rukh Khan,Male,MTech Information Technology,Lucknow,22,Reading,Tamil,Graphic Design,Urban,IIT Gandhinagar,245
+Data Analyst,Vicky Kaushal,Male,BTech Computational and Data Sciences,Amritsar,21,Meditation,Assamese,Trading,Minimalist,NIT Rourkela,246
+Data Engineer,Ranveer Singh,Female,BTech Mechanical,Thiruvananthapuram,19,Painting,Tamil,Cyber Security,Urban,NIT Allahabad,247
+App Development,Tiger Shroff,Male,MTech Computer Science ,Guwahati,23,Learning new skills,Punjabi,Game Development,Minimalist,NIT Durgapur,248
+App Development,Aamir Khan,Male,BTech Information Technology,Ahmedabad,20,Anime,Maithili,Product Management,Minimalist,IIT Guwahati,249
+Web Developer,Deepika Padukone,Female,MTech Electrical and Electronics,Hubli and Dharwad,24,Badminton,Maithili,Video Editing,Minimalist,NIT Jaipur,250
+IAS,Virat Kohli,Female,MTech Mechanical,Dhanbad,22,WebSeries,Tamil,Social Media Management,Urban,IIT Gandhinagar,251
+Teacher,Amitabh Bachchan,Male,BTech Computational and Data Sciences,Madurai,20,Tennis,Odia,Graphic Design,Urban,NIT Hamirpur,252
+IPS,Rohit Sharma,Male,BTech Information Technology,Vadodara,20,Manga,Odia,Content Writing,Minimalist,NIT Kurukshetra,253
+Web Developer,Shraddha Kapoor,Male,MTech Electrical and Electronics,Rajkot,22,Attending Cultural Events,Odia,Data Visualization,Urban,NIT Kurukshetra,254
+Data Scientist,Priyanka Chopra,Female,BTech Computer Science ,Meerut,20,Running,Marathi,Mobile App Development,Urban,NIT Kurukshetra,255
+Data Scientist,Alia Bhatt,Male,BTech Civil,Varanasi,20,Reading,Odia,Video Editing,Urban,NIT Durgapur,256
+App Development,Anushka Sharma,Male,MTech Computational and Data Sciences,Surathkal,22,Cricket,Bengali,DevOps,Minimalist,NIT Trichy,257
+Entrepreneur,Shah Rukh Khan,Male,BTech Electrical and Electronics,Mira and Bhayander,21,Hangout,Marathi,Data Science,Minimalist,IIT Kharagpur,258
+Data Engineer,Katrina Kaif,Male,BTech Mining,Bhubaneswar,18,Photography,Punjabi,Management,Urban,NIT Durgapur,259
+Software Developer,Salman Khan,Female,MTech Metallurgical and Materials,Aurangabad,23,Singing,Odia,DevOps,Urban,NIT Durgapur,260
+IPS,Virat Kohli,Male,BTech Electronics and Communication,Aurangabad,19,Meditation,Telugu,Cyber Security,Minimalist,IIT Bombay,261
+Entrepreneur,Ranbir Kapoor,Female,BTech Civil,Visakhapatnam,20,Football,Hindi,Animation,Minimalist,IIT Guwahati,262
+Data Scientist,Alia Bhatt,Male,BTech Mechanical,Navi Mumbai,18,Hockey,Maithili,Data Visualization,Urban,IIT Guwahati,263
+Data Engineer,Shahid Kapoor,Female,MTech Civil,Ranchi,24,PC Gaming,Assamese,Public Speaking,Urban,IIT Delhi,264
+IPS,Ranbir Kapoor,Male,MTech Mechanical,Mangaluru,23,PC Gaming,Marathi,Blockchain,Minimalist,NIT Durgapur,265
+Web Developer,Sara Ali Khan,Female,MTech Chemical,Tiruchirappalli,24,Reading,Malayalam,Animation,Minimalist,IIT Delhi,266
+Teacher,Vicky Kaushal,Male,MTech Mechanical,Mira and Bhayander,22,Anime,Telugu,Copywriting,Minimalist,IIT Delhi,267
+Software Developer,Rajkummar Rao,Female,MTech Electrical and Electronics,Thane,24,Volleyball,Kannada,Cloud Computing,Minimalist,IIT Madras,268
+Teacher,Shraddha Kapoor,Male,MTech Mining,Solapur,24,Photography,Hindi,Cloud Computing,Urban,NIT Jamshedpur,269
+Software Developer,Rajkummar Rao,Female,MTech Computational and Data Sciences,Varanasi,23,Mobile Gaming,Assamese,Data Science,Urban,IIT Indore,270
+Software Developer,Sara Ali Khan,Male,MTech Chemical,Chandigarh,23,Tennis,Tamil,Web Development,Minimalist,NIT Jaipur,271
+Teacher,Shraddha Kapoor,Female,MTech Information Technology,Coimbatore,23,Attending Cultural Events,Malayalam,Video Editing,Minimalist,NIT Hamirpur,272
+Data Analyst,Varun Dhawan,Male,BTech Civil,Indore,20,Hiking,Bengali,Content Writing,Minimalist,NIT Bhopal,273
+Entrepreneur,Akshay Kumar,Female,BTech Electronics and Communication,Meerut,21,Singing,Gujarati,Trading,Minimalist,NIT Jaipur,274
+Professor,Varun Dhawan,Male,MTech Electronics and Communication,Salem,22,Drama,Tamil,Video Editing,Urban,IIT Jodhpur,275
+Software Developer,Ranbir Kapoor,Female,BTech Computer Science ,Agra,21,Photography,Malayalam,Blockchain,Urban,NIT Hamirpur,276
+IAS,Tiger Shroff,Male,BTech Metallurgical and Materials,Gurgaon,21,Meditation,Assamese,Social Media Management,Minimalist,IIT Jodhpur,277
+IPS,Sara Ali Khan,Female,BTech Mechanical,Amritsar,21,Hockey,Tamil,Trading,Minimalist,IIT Guwahati,278
+Scientist,Shraddha Kapoor,Male,BTech Civil,Amritsar,19,Writing,Bengali,Trading,Minimalist,NIT Rourkela,279
+IAS,Salman Khan,Female,BTech Mechanical,Bhopal,21,WebSeries,Bengali,Data Visualization,Minimalist,NIT Hamirpur,280
+Data Engineer,M. S. Dhoni,Male,MTech Electrical and Electronics,Bareilly,24,Hiking,Bengali,Machine Learning,Minimalist,NIT Surathkal,281
+Professor,Amitabh Bachchan,Female,BTech Computational and Data Sciences,Tiruchirappalli,20,Learning new skills,Maithili,Project Management,Urban,IIT Delhi,282
+IAS,Katrina Kaif,Male,BTech Computer Science ,Srinagar,20,Meditation,Hindi,Sales and Marketing,Urban,NIT Allahabad,283
+Data Scientist,Vicky Kaushal,Female,MTech Electrical and Electronics,Patna,24,Hockey,Assamese,Video Editing,Urban,IIT Indore,284
+App Development,Virat Kohli,Female,BTech Mining,Thane,18,Anime,Punjabi,Data Science,Urban,IIT Jodhpur,285
+IPS,Rajkummar Rao,Female,MTech Mining,Srinagar,22,Hockey,Gujarati,Product Management,Urban,IIT Delhi,286
+Data Analyst,Hrithik Roshan,Female,BTech Chemical,Bhopal,19,Manga,Bengali,Mobile App Development,Urban,IIT Delhi,287
+Entrepreneur,Alia Bhatt,Female,MTech Metallurgical and Materials,Pune,23,Drama,Bengali,Digital Marketing,Urban,NIT Jamshedpur,288
+Professor,Sara Ali Khan,Female,MTech Computational and Data Sciences,Ghaziabad,24,Mobile Gaming,Tamil,UI/UX Research,Urban,IIT Kanpur,289
+Professor,M. S. Dhoni,Female,BTech Chemical,Amritsar,20,WebSeries,Gujarati,Content Writing,Urban,IIT Delhi,290
+Professor,Akshay Kumar,Female,BTech Civil,Mangaluru,18,Yoga,Kannada,Trading,Urban,NIT Jaipur,291
+IPS,Shraddha Kapoor,Female,BTech Electronics and Communication,Delhi,19,Mobile Gaming,Maithili,Blockchain,Urban,IIT Guwahati,292
+Scientist,Priyanka Chopra,Female,MTech Mining,Mysore,23,Anime,Punjabi,Sales and Marketing,Minimalist,NIT Kurukshetra,293
+App Development,Katrina Kaif,Female,MTech Chemical,Haora,24,Meditation,Bengali,Mobile App Development,Urban,IIT Jodhpur,294
+Software Developer,Aamir Khan,Female,BTech Electronics and Communication,Ahmedabad,20,Writing,Telugu,UI/UX Research,Urban,IIT Delhi,295
+Web Developer,Salman Khan,Female,MTech Mining,Mysore,24,Kabaddi,Odia,Blockchain,Urban,NIT Bhopal,296
+Teacher,Alia Bhatt,Male,BTech Mechanical,Thane,18,Running,Gujarati,Graphic Design,Minimalist,NIT Jamshedpur,297
+Web Developer,Deepika Padukone,Male,MTech Metallurgical and Materials,Raipur,24,Hangout,Assamese,DevOps,Urban,IIT Indore,298
+Teacher,Amitabh Bachchan,Male,MTech Chemical,Lucknow,22,Yoga,Telugu,Copywriting,Minimalist,NIT Jaipur,299
+IAS,Aamir Khan,Female,BTech Chemical,Salem,20,Swimming,Marathi,Sales and Marketing,Urban,IIT Hyderabad,300
+Data Analyst,Kareena Kapoor,Male,MTech Chemical,Mangaluru,24,Photography,Punjabi,Sales and Marketing,Urban,NIT Jamshedpur,301
+IPS,Akshay Kumar,Female,BTech Electrical and Electronics,Gurgaon,20,Volleyball,Malayalam,Marketing Strategy,Urban,NIT Jaipur,302
+Professor,Varun Dhawan,Male,BTech Electrical and Electronics,Mysore,19,Badminton,Marathi,Data Analysis,Urban,NIT Hamirpur,303
+Data Engineer,Virat Kohli,Female,BTech Mechanical,Lucknow,18,Chess,Punjabi,Graphic Design,Minimalist,NIT Hamirpur,304
+Data Analyst,Sara Ali Khan,Male,MTech Mining,Vijayawada,24,Mobile Gaming,Punjabi,Social Media Management,Minimalist,NIT Jamshedpur,305
+Data Analyst,Ranveer Singh,Female,BTech Chemical,Kolkata,20,Hiking,Odia,Machine Learning,Minimalist,NIT Kurukshetra,306
+Teacher,Katrina Kaif,Female,MTech Chemical,Kanpur,22,Chess,Maithili,Sales and Marketing,Urban,IIT Hyderabad,307
+IAS,Deepika Padukone,Female,MTech Electrical and Electronics,Pune,22,Painting,Marathi,Video Editing,Urban,IIT Madras,308
+IAS,Ranbir Kapoor,Female,MTech Mechanical,Gwalior,22,Painting,Assamese,Social Media Management,Minimalist,NIT Warangal,309
+Professor,Rajkummar Rao,Male,BTech Chemical,Madurai,20,Hangout,Assamese,Video Editing,Urban,IIT Indore,310
+Teacher,Akshay Kumar,Male,MTech Electrical and Electronics,Nagpur,23,WebSeries,Maithili,Digital Marketing,Urban,NIT Surathkal,311
+Professor,Sara Ali Khan,Female,MTech Information Technology,Gwalior,24,Anime,Odia,UI/UX Research,Urban,IIT Kanpur,312
+Software Developer,Shraddha Kapoor,Male,BTech Chemical,Meerut,20,Hockey,Gujarati,Product Management,Urban,IIT Bombay,313
+Software Developer,Ranveer Singh,Female,BTech Mechanical,Kanpur,18,Photography,Tamil,Public Speaking,Minimalist,IIT Guwahati,314
+Web Developer,Aishwarya Rai Bachchan,Male,MTech Computational and Data Sciences,Allahabad,23,Chess,Odia,Copywriting,Minimalist,IIT BHU,315
+Data Engineer,Akshay Kumar,Female,BTech Computational and Data Sciences,Agra,21,Yoga,Gujarati,UI/UX Research,Minimalist,IIT Roorkee,316
+Teacher,Aamir Khan,Male,BTech Civil,Bareilly,20,Volleyball,Assamese,Public Speaking,Urban,NIT Kurukshetra,317
+IPS,Janhvi Kapoor,Male,MTech Metallurgical and Materials,Kota,22,Painting,Hindi,Data Science,Urban,IIT Delhi,318
+Teacher,Sara Ali Khan,Male,MTech Metallurgical and Materials,Tiruchirappalli,24,Anime,Odia,Product Management,Urban,NIT Rourkela,319
+IPS,Shraddha Kapoor,Female,BTech Computational and Data Sciences,Bhubaneswar,20,Photography,Kannada,Copywriting,Urban,NIT Hamirpur,320
+IPS,Janhvi Kapoor,Male,BTech Computational and Data Sciences,Coimbatore,21,Painting,Bengali,Data Analysis,Urban,IIT Kharagpur,321
+Data Analyst,Vicky Kaushal,Male,BTech Information Technology,Bhopal,21,Hiking,Gujarati,Management,Minimalist,IIT Bombay,322
+Professor,Priyanka Chopra,Male,MTech Information Technology,Thane,23,Anime,Hindi,Data Visualization,Minimalist,IIT Hyderabad,323
+Teacher,M. S. Dhoni,Male,MTech Information Technology,Thiruvananthapuram,23,Football,Bengali,Social Media Management,Urban,IIT Guwahati,324
+IPS,Deepika Padukone,Male,MTech Mining,Haora,24,Mobile Gaming,Malayalam,Graphic Design,Minimalist,IIT Hyderabad,325
+Teacher,Aamir Khan,Male,BTech Electrical and Electronics,Ahmedabad,18,Swimming,Tamil,Data Analysis,Minimalist,NIT Jamshedpur,326
+Web Developer,Rajkummar Rao,Female,BTech Civil,Srinagar,18,Chess,Kannada,UI/UX Design,Urban,IIT Kharagpur,327
+Data Analyst,Shraddha Kapoor,Male,MTech Computer Science ,Lucknow,24,Football,Odia,Graphic Design,Minimalist,IIT Kanpur,328
+Teacher,Janhvi Kapoor,Female,MTech Metallurgical and Materials,Hyderabad,23,Anime,Malayalam,Mobile App Development,Urban,NIT Hamirpur,329
+Data Analyst,Ranbir Kapoor,Female,BTech Civil,Chennai,19,Attending Cultural Events,Gujarati,Data Visualization,Urban,NIT Jamshedpur,330
+Teacher,Janhvi Kapoor,Male,MTech Mining,Rajkot,22,Learning new skills,Kannada,Trading,Urban,IIT Kanpur,331
+Data Analyst,Alia Bhatt,Female,BTech Chemical,Amritsar,20,Hiking,Telugu,Management,Minimalist,NIT Bhopal,332
+App Development,Deepika Padukone,Male,MTech Mechanical,Hubli and Dharwad,24,Cricket,Maithili,Management,Urban,IIT BHU,333
+IPS,Sachin Tendulkar,Male,BTech Mining,Mumbai,21,Singing,Malayalam,Management,Urban,NIT Kurukshetra,334
+Data Scientist,Rajkummar Rao,Female,MTech Mining,Ranchi,22,PC Gaming,Kannada,Data Visualization,Urban,NIT Surathkal,335
+Professor,Sara Ali Khan,Male,BTech Mechanical,Solapur,21,Drama,Marathi,UI/UX Research,Urban,NIT Bhopal,336
+Scientist,Anushka Sharma,Female,BTech Computational and Data Sciences,Mysore,20,Photography,Hindi,Game Development,Minimalist,IIT Hyderabad,337
+Teacher,Aamir Khan,Male,BTech Computer Science ,Varanasi,21,Photography,Kannada,Sales and Marketing,Minimalist,IIT Madras,338
+Data Scientist,Alia Bhatt,Male,BTech Chemical,Guwahati,18,Running,Maithili,Content Writing,Urban,IIT Bombay,339
+App Development,Ranbir Kapoor,Male,BTech Electrical and Electronics,Patna,21,Football,Kannada,UI/UX Design,Urban,IIT Kanpur,340
+App Development,M. S. Dhoni,Male,BTech Information Technology,Bareilly,21,Hiking,Marathi,UI/UX Research,Urban,NIT Rourkela,341
+Data Engineer,Sachin Tendulkar,Female,BTech Mining,Jaipur,19,PC Gaming,Malayalam,Social Media Management,Urban,IIT Hyderabad,342
+IAS,Hrithik Roshan,Male,MTech Computer Science ,Hyderabad,24,Anime,Assamese,Web Development,Urban,IIT Hyderabad,343
+Data Scientist,Ayushmann Khurrana,Male,BTech Metallurgical and Materials,Nashik,20,Hockey,Malayalam,Content Writing,Urban,IIT BHU,344
+Entrepreneur,Sachin Tendulkar,Male,BTech Electrical and Electronics,Jaipur,20,Cricket,Hindi,Blockchain,Urban,NIT Jamshedpur,345
+IAS,Shraddha Kapoor,Female,BTech Mechanical,Thiruvananthapuram,20,Volleyball,Kannada,UI/UX Design,Minimalist,NIT Jamshedpur,346
+Data Engineer,Alia Bhatt,Male,MTech Civil,Varanasi,22,PC Gaming,Marathi,UI/UX Design,Minimalist,NIT Kurukshetra,347
+Entrepreneur,Sachin Tendulkar,Female,BTech Metallurgical and Materials,Indore,21,Swimming,Kannada,Web Development,Urban,NIT Hamirpur,348
+IAS,Hrithik Roshan,Male,BTech Chemical,Haora,20,Photography,Punjabi,Photography,Urban,IIT Madras,349
+IPS,Janhvi Kapoor,Male,BTech Computational and Data Sciences,Aurangabad,20,Running,Malayalam,Animation,Minimalist,NIT Jaipur,350
+Data Analyst,Alia Bhatt,Female,MTech Computer Science ,Haora,22,Photography,Gujarati,Data Analysis,Urban,IIT Bombay,351
+Entrepreneur,Priyanka Chopra,Male,MTech Metallurgical and Materials,Coimbatore,24,Hiking,Gujarati,Web Development,Minimalist,NIT Warangal,352
+Software Developer,Kareena Kapoor,Female,MTech Civil,Guwahati,23,Singing,Maithili,Marketing Strategy,Minimalist,IIT Kanpur,353
+Scientist,Ayushmann Khurrana,Male,BTech Mechanical,Meerut,19,Chess,Assamese,Animation,Urban,IIT Kharagpur,354
+Web Developer,Shahid Kapoor,Male,MTech Computational and Data Sciences,Kota,22,Yoga,Maithili,Trading,Urban,NIT Allahabad,355
+Entrepreneur,Tiger Shroff,Male,BTech Metallurgical and Materials,Mumbai,18,Running,Tamil,Data Science,Minimalist,IIT Delhi,356
+Software Developer,Salman Khan,Male,BTech Metallurgical and Materials,Thane,19,Kabaddi,Malayalam,Trading,Urban,NIT Trichy,357
+Professor,Virat Kohli,Female,BTech Electronics and Communication,Coimbatore,19,Badminton,Hindi,Data Science,Urban,IIT Bombay,358
+App Development,Rohit Sharma,Male,BTech Electrical and Electronics,Bhopal,19,Volleyball,Hindi,Digital Marketing,Minimalist,IIT Madras,359
+Web Developer,Ranveer Singh,Male,BTech Civil,Visakhapatnam,19,WebSeries,Telugu,Trading,Urban,IIT BHU,360
+Teacher,Anil Kapoor,Male,MTech Information Technology,Nashik,22,Mobile Gaming,Kannada,Data Analysis,Urban,NIT Jamshedpur,361
+Data Engineer,Rajkummar Rao,Female,BTech Mechanical,Lucknow,19,Badminton,Odia,Cloud Computing,Minimalist,IIT Delhi,362
+IPS,Virat Kohli,Male,BTech Civil,Gwalior,20,PC Gaming,Tamil,Public Speaking,Urban,NIT Warangal,363
+Scientist,Janhvi Kapoor,Male,MTech Computer Science ,Ghaziabad,24,Hiking,Hindi,Video Editing,Urban,NIT Durgapur,364
+Teacher,Anushka Sharma,Male,BTech Metallurgical and Materials,Bengaluru,19,Cricket,Odia,Photography,Minimalist,NIT Surathkal,365
+Professor,Hrithik Roshan,Male,MTech Electronics and Communication,Jalandhar,24,Singing,Maithili,Data Science,Urban,NIT Hamirpur,366
+Teacher,Kriti Sanon,Male,MTech Chemical,Gurgaon,24,Swimming,Punjabi,Digital Marketing,Minimalist,NIT Jamshedpur,367
+App Development,Aishwarya Rai Bachchan,Male,MTech Mechanical,Tiruchirappalli,23,Dancing,Gujarati,Video Editing,Minimalist,IIT Jodhpur,368
+Software Developer,Virat Kohli,Female,BTech Electronics and Communication,Indore,21,Cricket,Gujarati,Graphic Design,Urban,NIT Jaipur,369
+Data Engineer,Kriti Sanon,Male,BTech Computer Science ,Ahmedabad,21,Football,Gujarati,Product Management,Urban,NIT Trichy,370
+Teacher,Virat Kohli,Female,BTech Mechanical,Amritsar,20,Painting,Odia,Cloud Computing,Urban,IIT Gandhinagar,371
+IPS,Tiger Shroff,Male,BTech Mining,Mira and Bhayander,18,Manga,Telugu,UI/UX Research,Urban,NIT Jamshedpur,372
+Entrepreneur,Janhvi Kapoor,Female,BTech Mechanical,Allahabad,19,Swimming,Malayalam,Product Management,Urban,NIT Warangal,373
+IPS,Ranveer Singh,Male,BTech Civil,Hubli and Dharwad,19,Tennis,Maithili,Sales and Marketing,Minimalist,NIT Surathkal,374
+IAS,Sachin Tendulkar,Male,BTech Electronics and Communication,Mumbai,19,WebSeries,Tamil,UI/UX Design,Urban,IIT Indore,375
+Professor,Janhvi Kapoor,Female,BTech Mining,Allahabad,18,Hangout,Tamil,Mobile App Development,Urban,NIT Warangal,376
+Data Scientist,M. S. Dhoni,Male,BTech Mechanical,Haora,20,Hiking,Punjabi,Marketing Strategy,Minimalist,NIT Allahabad,377
+Scientist,Priyanka Chopra,Male,BTech Metallurgical and Materials,Jaipur,19,Learning new skills,Maithili,Web Development,Urban,IIT Kharagpur,378
+Entrepreneur,Rajkummar Rao,Female,MTech Computer Science ,Varanasi,24,Hangout,Tamil,Mobile App Development,Minimalist,NIT Trichy,379
+App Development,Amitabh Bachchan,Male,BTech Chemical,Patna,20,Drama,Telugu,UI/UX Research,Urban,IIT Madras,380
+Teacher,Shraddha Kapoor,Female,BTech Mining,Dhanbad,19,Yoga,Gujarati,Copywriting,Urban,IIT Delhi,381
+Data Scientist,Shah Rukh Khan,Male,BTech Computer Science ,Bareilly,21,Hiking,Assamese,Content Writing,Minimalist,NIT Hamirpur,382
+IPS,Tiger Shroff,Female,MTech Electrical and Electronics,Delhi,23,Hangout,Kannada,Trading,Minimalist,NIT Jaipur,383
+Data Analyst,Salman Khan,Female,MTech Chemical,Amritsar,24,Writing,Maithili,Marketing Strategy,Minimalist,NIT Warangal,384
+Software Developer,Hrithik Roshan,Female,MTech Metallurgical and Materials,Jodhpur,22,Chess,Malayalam,Trading,Minimalist,IIT Kanpur,385
+Data Analyst,Akshay Kumar,Female,BTech Metallurgical and Materials,Gwalior,21,Tennis,Bengali,Animation,Minimalist,NIT Allahabad,386
+IPS,Kriti Sanon,Male,MTech Information Technology,Vijayawada,23,Writing,Assamese,Digital Marketing,Urban,IIT Bombay,387
+Teacher,M. S. Dhoni,Male,BTech Mechanical,Dhanbad,19,Dancing,Punjabi,Graphic Design,Urban,IIT Kharagpur,388
+Data Engineer,Janhvi Kapoor,Female,BTech Electronics and Communication,Ahmedabad,21,Anime,Odia,DevOps,Minimalist,NIT Durgapur,389
+Scientist,Deepika Padukone,Female,BTech Computer Science ,Pune,18,Badminton,Tamil,Content Writing,Minimalist,IIT Hyderabad,390
+IPS,Shraddha Kapoor,Female,MTech Chemical,Thiruvananthapuram,22,Dancing,Odia,Copywriting,Minimalist,NIT Trichy,391
+Software Developer,Rohit Sharma,Male,MTech Electrical and Electronics,Agra,22,Painting,Bengali,Game Development,Urban,IIT Gandhinagar,392
+Teacher,Janhvi Kapoor,Female,BTech Civil,Nagpur,18,Swimming,Assamese,Data Analysis,Urban,NIT Trichy,393
+Teacher,Kriti Sanon,Male,MTech Mining,Bareilly,24,Reading,Malayalam,Digital Marketing,Minimalist,IIT Guwahati,394
+Teacher,Virat Kohli,Male,BTech Information Technology,Bhubaneswar,18,Anime,Malayalam,Machine Learning,Urban,IIT Gandhinagar,395
+Software Developer,Anil Kapoor,Female,BTech Civil,Visakhapatnam,20,Reading,Odia,Content Writing,Minimalist,NIT Jamshedpur,396
+IPS,Anushka Sharma,Male,BTech Electrical and Electronics,Jalandhar,21,Singing,Bengali,Social Media Management,Minimalist,IIT Delhi,397
+IAS,Hrithik Roshan,Female,MTech Electrical and Electronics,Patna,22,Dancing,Gujarati,Blockchain,Urban,IIT Madras,398
+Scientist,Aamir Khan,Female,MTech Mining,Vijayawada,23,Drama,Assamese,Video Editing,Minimalist,NIT Surathkal,399
+Scientist,Ayushmann Khurrana,Male,BTech Electrical and Electronics,Hubli and Dharwad,21,Kabaddi,Marathi,Sales and Marketing,Minimalist,IIT Bombay,400
+IPS,Akshay Kumar,Male,BTech Electronics and Communication,Ranchi,19,Kabaddi,Kannada,UI/UX Design,Urban,IIT Delhi,401
+IAS,Sachin Tendulkar,Female,BTech Mechanical,Bengaluru,20,Drama,Marathi,Cyber Security,Minimalist,NIT Surathkal,402
+Entrepreneur,Vicky Kaushal,Female,BTech Mechanical,Madurai,20,Meditation,Malayalam,Trading,Urban,IIT Hyderabad,403
+Professor,Salman Khan,Female,MTech Mining,Nagpur,23,PC Gaming,Tamil,Graphic Design,Minimalist,NIT Hamirpur,404
+IPS,Akshay Kumar,Female,MTech Electronics and Communication,Visakhapatnam,24,Hockey,Odia,Cloud Computing,Urban,NIT Bhopal,405
+Teacher,Tiger Shroff,Female,BTech Chemical,Vadodara,19,Chess,Marathi,Machine Learning,Minimalist,NIT Jaipur,406
+Teacher,Hrithik Roshan,Female,MTech Electrical and Electronics,Bareilly,23,Running,Marathi,Machine Learning,Urban,IIT Delhi,407
+Scientist,Amitabh Bachchan,Female,MTech Mechanical,Bhopal,22,Learning new skills,Tamil,UI/UX Design,Urban,NIT Rourkela,408
+IAS,Priyanka Chopra,Female,MTech Metallurgical and Materials,Tiruchirappalli,24,Chess,Assamese,Cyber Security,Minimalist,NIT Durgapur,409
+IPS,Hrithik Roshan,Male,BTech Mechanical,Jodhpur,18,Reading,Punjabi,Content Writing,Urban,NIT Surathkal,410
+IAS,Rohit Sharma,Female,MTech Computer Science ,Gurgaon,24,Hiking,Tamil,Cyber Security,Urban,NIT Bhopal,411
+IAS,Priyanka Chopra,Male,MTech Information Technology,Kota,24,Tennis,Odia,Photography,Minimalist,IIT Delhi,412
+IPS,Katrina Kaif,Female,MTech Mechanical,Bhubaneswar,23,Hiking,Malayalam,Copywriting,Minimalist,NIT Jaipur,413
+Web Developer,Salman Khan,Female,BTech Civil,Dhanbad,18,Meditation,Punjabi,Machine Learning,Urban,IIT Gandhinagar,414
+Software Developer,Anushka Sharma,Female,BTech Electrical and Electronics,Nashik,19,Badminton,Gujarati,Graphic Design,Minimalist,IIT Jodhpur,415
+Entrepreneur,M. S. Dhoni,Male,MTech Metallurgical and Materials,Tiruchirappalli,23,Volleyball,Maithili,Graphic Design,Urban,NIT Rourkela,416
+IPS,Tiger Shroff,Male,BTech Electrical and Electronics,Tiruchirappalli,18,Attending Cultural Events,Assamese,Cloud Computing,Urban,IIT Guwahati,417
+Entrepreneur,Deepika Padukone,Female,MTech Computer Science ,Jabalpur,23,Kabaddi,Malayalam,UI/UX Design,Urban,NIT Hamirpur,418
+Software Developer,Alia Bhatt,Female,BTech Computational and Data Sciences,Thiruvananthapuram,18,Yoga,Hindi,Project Management,Minimalist,NIT Durgapur,419
+IPS,Varun Dhawan,Female,MTech Computational and Data Sciences,Ludhiana,23,Swimming,Bengali,Graphic Design,Minimalist,IIT Indore,420
+Software Developer,Sara Ali Khan,Female,MTech Civil,Salem,22,Hangout,Kannada,Project Management,Minimalist,IIT Roorkee,421
+Teacher,Anil Kapoor,Female,MTech Information Technology,Lucknow,23,Basketball,Odia,Cyber Security,Minimalist,IIT Indore,422
+Teacher,Akshay Kumar,Female,MTech Mining,Jalandhar,22,Tennis,Tamil,Cloud Computing,Urban,IIT Indore,423
+Teacher,Salman Khan,Male,BTech Civil,Raipur,21,Reading,Hindi,Graphic Design,Urban,NIT Rourkela,424
+Data Engineer,Priyanka Chopra,Female,BTech Mechanical,Meerut,18,Learning new skills,Marathi,Marketing Strategy,Urban,IIT Indore,425
+App Development,Priyanka Chopra,Male,MTech Computational and Data Sciences,Mangaluru,23,Learning new skills,Assamese,Data Analysis,Urban,NIT Trichy,426
+App Development,Katrina Kaif,Male,MTech Civil,Ghaziabad,24,WebSeries,Odia,Project Management,Urban,NIT Rourkela,427
+IPS,Salman Khan,Male,MTech Chemical,Madurai,24,Meditation,Kannada,Web Development,Minimalist,IIT Jodhpur,428
+Scientist,Sara Ali Khan,Male,MTech Civil,Chandigarh,24,Badminton,Gujarati,Data Analysis,Urban,NIT Jaipur,429
+Data Analyst,Shah Rukh Khan,Male,BTech Metallurgical and Materials,Kota,18,Painting,Gujarati,Video Editing,Urban,NIT Rourkela,430
+Professor,Katrina Kaif,Male,BTech Civil,Vadodara,21,Singing,Telugu,Data Visualization,Urban,IIT Indore,431
+App Development,Kareena Kapoor,Male,BTech Mechanical,Jodhpur,19,Swimming,Assamese,Project Management,Minimalist,NIT Jamshedpur,432
+Teacher,Ranbir Kapoor,Male,BTech Civil,Nagpur,21,Anime,Maithili,Sales and Marketing,Minimalist,IIT Kanpur,433
+Scientist,Kareena Kapoor,Male,MTech Electrical and Electronics,Delhi,23,Painting,Punjabi,Cloud Computing,Urban,NIT Durgapur,434
+Scientist,Katrina Kaif,Female,MTech Mining,Meerut,23,Volleyball,Assamese,Marketing Strategy,Urban,NIT Allahabad,435
+Entrepreneur,Ranveer Singh,Male,BTech Computational and Data Sciences,Rajkot,21,Meditation,Odia,Digital Marketing,Minimalist,IIT Madras,436
+IPS,Anushka Sharma,Female,BTech Electrical and Electronics,Delhi,20,Cricket,Malayalam,Animation,Urban,IIT Guwahati,437
+Software Developer,Priyanka Chopra,Female,BTech Electrical and Electronics,Pune,21,Yoga,Odia,Data Science,Minimalist,IIT Madras,438
+Scientist,Katrina Kaif,Male,BTech Computer Science ,Ghaziabad,20,Learning new skills,Maithili,Content Writing,Minimalist,IIT Kharagpur,439
+Data Analyst,Varun Dhawan,Female,BTech Information Technology,Mumbai,18,Photography,Tamil,Data Visualization,Urban,IIT Gandhinagar,440
+Teacher,Vicky Kaushal,Male,MTech Chemical,Mumbai,24,Drama,Kannada,Mobile App Development,Urban,IIT Delhi,441
+Data Engineer,Ranveer Singh,Male,BTech Mining,Ghaziabad,18,Singing,Marathi,Sales and Marketing,Minimalist,IIT Kanpur,442
+Scientist,Amitabh Bachchan,Female,BTech Mining,Guwahati,19,Volleyball,Marathi,Web Development,Urban,NIT Bhopal,443
+Teacher,M. S. Dhoni,Male,BTech Mining,Mira and Bhayander,18,Tennis,Marathi,Data Analysis,Urban,IIT Roorkee,444
+Data Scientist,Tiger Shroff,Female,MTech Mechanical,Rajkot,24,Writing,Gujarati,UI/UX Research,Minimalist,NIT Kurukshetra,445
+IPS,Katrina Kaif,Male,BTech Mechanical,Gwalior,19,PC Gaming,Assamese,Sales and Marketing,Minimalist,NIT Trichy,446
+IPS,M. S. Dhoni,Male,MTech Computer Science ,Srinagar,23,Kabaddi,Kannada,Copywriting,Minimalist,IIT Guwahati,447
+Entrepreneur,Alia Bhatt,Male,BTech Computer Science ,Ahmedabad,20,Attending Cultural Events,Hindi,Game Development,Minimalist,IIT Kanpur,448
+IPS,Akshay Kumar,Female,BTech Chemical,Kota,21,Learning new skills,Gujarati,Social Media Management,Urban,IIT Gandhinagar,449
+Data Analyst,Janhvi Kapoor,Male,BTech Mining,Varanasi,21,Volleyball,Punjabi,Mobile App Development,Urban,IIT Madras,450
+App Development,Akshay Kumar,Female,BTech Mining,Bhopal,18,Photography,Telugu,Management,Minimalist,NIT Rourkela,451
+IPS,Virat Kohli,Male,BTech Mining,Chandigarh,21,Painting,Bengali,Graphic Design,Urban,IIT BHU,452
+Teacher,Akshay Kumar,Male,BTech Electronics and Communication,Coimbatore,20,Volleyball,Hindi,Blockchain,Urban,NIT Rourkela,453
+Software Developer,Sara Ali Khan,Male,BTech Mechanical,Mira and Bhayander,19,Swimming,Gujarati,Social Media Management,Minimalist,NIT Jamshedpur,454
+Data Scientist,Kriti Sanon,Female,MTech Computer Science ,Surathkal,24,Attending Cultural Events,Odia,Data Analysis,Urban,IIT Bombay,455
+Teacher,Rajkummar Rao,Male,BTech Mechanical,Agra,18,Hangout,Telugu,Animation,Urban,IIT Kharagpur,456
+Data Engineer,Rajkummar Rao,Male,BTech Civil,Gwalior,20,Dancing,Bengali,Data Analysis,Urban,IIT Roorkee,457
+Software Developer,Varun Dhawan,Female,BTech Electrical and Electronics,Jabalpur,21,Painting,Tamil,Social Media Management,Urban,IIT Hyderabad,458
+Data Scientist,Janhvi Kapoor,Female,MTech Civil,Lucknow,22,Manga,Kannada,Marketing Strategy,Urban,NIT Bhopal,459
+IPS,Salman Khan,Male,MTech Mining,Tiruchirappalli,22,Drama,Maithili,Content Writing,Urban,IIT Jodhpur,460
+Scientist,Amitabh Bachchan,Female,MTech Electronics and Communication,Nashik,22,Photography,Telugu,UI/UX Research,Urban,NIT Hamirpur,461
+Web Developer,Janhvi Kapoor,Male,BTech Electronics and Communication,Gwalior,20,Manga,Gujarati,Mobile App Development,Minimalist,IIT Hyderabad,462
+App Development,Ranveer Singh,Female,BTech Mechanical,Thiruvananthapuram,20,Swimming,Malayalam,Animation,Minimalist,IIT Kanpur,463
+App Development,Shah Rukh Khan,Female,BTech Computer Science ,Jabalpur,20,Swimming,Hindi,Content Writing,Urban,NIT Bhopal,464
+Web Developer,Hrithik Roshan,Male,BTech Computer Science ,Indore,20,PC Gaming,Malayalam,Trading,Minimalist,IIT Bombay,465
+Data Analyst,Shraddha Kapoor,Female,BTech Computer Science ,Coimbatore,18,Swimming,Hindi,Data Science,Urban,IIT Guwahati,466
+Teacher,Vicky Kaushal,Male,MTech Civil,Haora,23,Writing,Punjabi,Video Editing,Urban,NIT Durgapur,467
+Software Developer,Varun Dhawan,Female,MTech Metallurgical and Materials,Ranchi,24,Anime,Assamese,Content Writing,Minimalist,IIT Delhi,468
+Teacher,Ayushmann Khurrana,Female,BTech Mechanical,Amritsar,18,Running,Maithili,UI/UX Research,Urban,NIT Kurukshetra,469
+IPS,Kareena Kapoor,Male,MTech Metallurgical and Materials,Lucknow,24,Hangout,Assamese,Cyber Security,Minimalist,IIT Kharagpur,470
+Software Developer,Alia Bhatt,Male,MTech Mining,Thiruvananthapuram,24,Anime,Telugu,Machine Learning,Urban,IIT Gandhinagar,471
+Teacher,Anil Kapoor,Female,BTech Civil,Madurai,19,Attending Cultural Events,Telugu,Data Analysis,Minimalist,NIT Hamirpur,472
+Teacher,Rajkummar Rao,Female,MTech Computer Science ,Mysore,22,Cricket,Malayalam,Data Analysis,Urban,IIT Gandhinagar,473
+Data Engineer,Vicky Kaushal,Male,BTech Mining,Aurangabad,19,Drama,Malayalam,Machine Learning,Minimalist,IIT Hyderabad,474
+Data Analyst,Shah Rukh Khan,Male,MTech Mining,Meerut,23,PC Gaming,Kannada,Animation,Urban,NIT Jamshedpur,475
+Software Developer,Katrina Kaif,Female,BTech Information Technology,Mysore,18,Singing,Odia,Graphic Design,Minimalist,NIT Durgapur,476
+Web Developer,Shraddha Kapoor,Female,BTech Information Technology,Patna,18,Chess,Bengali,Machine Learning,Urban,NIT Bhopal,477
+Software Developer,Virat Kohli,Female,MTech Information Technology,Surathkal,22,Drama,Assamese,Web Development,Urban,IIT Gandhinagar,478
+IPS,Katrina Kaif,Female,BTech Information Technology,Bhopal,18,Hiking,Hindi,Video Editing,Minimalist,IIT Guwahati,479
+Software Developer,Shraddha Kapoor,Male,BTech Information Technology,Bengaluru,19,Hiking,Assamese,Graphic Design,Urban,NIT Jamshedpur,480
+Data Engineer,Tiger Shroff,Male,BTech Chemical,Lucknow,18,Hiking,Bengali,Mobile App Development,Minimalist,NIT Jaipur,481
+IAS,Vicky Kaushal,Male,BTech Mechanical,Vadodara,20,Chess,Hindi,Data Visualization,Minimalist,IIT Kanpur,482
+Web Developer,Vicky Kaushal,Male,BTech Electrical and Electronics,Kota,18,Cricket,Marathi,DevOps,Urban,NIT Hamirpur,483
+Data Engineer,Ranbir Kapoor,Female,BTech Computer Science ,Gurgaon,21,Kabaddi,Bengali,Content Writing,Minimalist,IIT Madras,484
+Teacher,Katrina Kaif,Female,BTech Mining,Thiruvananthapuram,20,Meditation,Maithili,Blockchain,Urban,NIT Rourkela,485
+IPS,Alia Bhatt,Male,BTech Computer Science ,Mumbai,18,Meditation,Gujarati,Public Speaking,Minimalist,IIT Kanpur,486
+IAS,Ayushmann Khurrana,Male,MTech Civil,Jalandhar,22,Anime,Maithili,DevOps,Urban,IIT Delhi,487
+Data Analyst,M. S. Dhoni,Male,MTech Chemical,Hyderabad,24,Attending Cultural Events,Maithili,Public Speaking,Urban,IIT Guwahati,488
+Data Analyst,Akshay Kumar,Female,BTech Electrical and Electronics,Mumbai,20,Swimming,Odia,DevOps,Minimalist,NIT Hamirpur,489
+App Development,Alia Bhatt,Male,BTech Chemical,Pune,18,WebSeries,Odia,Project Management,Minimalist,IIT Bombay,490
+IAS,Shraddha Kapoor,Female,BTech Civil,Gurgaon,19,Badminton,Odia,Photography,Urban,IIT Delhi,491
+IPS,Alia Bhatt,Female,MTech Information Technology,Nagpur,22,Badminton,Malayalam,Marketing Strategy,Minimalist,IIT Kharagpur,492
+Teacher,Anushka Sharma,Male,BTech Electronics and Communication,Delhi,19,Kabaddi,Malayalam,UI/UX Design,Urban,NIT Jamshedpur,493
+App Development,Varun Dhawan,Female,BTech Electronics and Communication,Mysore,20,Hockey,Punjabi,Data Visualization,Urban,NIT Jaipur,494
+Teacher,Ayushmann Khurrana,Female,BTech Civil,Ghaziabad,19,PC Gaming,Malayalam,Mobile App Development,Urban,IIT Roorkee,495
+Data Analyst,Shahid Kapoor,Male,MTech Mechanical,Raipur,23,Basketball,Marathi,Public Speaking,Urban,NIT Bhopal,496
+IAS,Ranveer Singh,Male,MTech Mining,Amritsar,22,Hangout,Hindi,Trading,Urban,NIT Allahabad,497
+Data Analyst,Aishwarya Rai Bachchan,Male,BTech Electrical and Electronics,Mangaluru,20,Cricket,Kannada,Cloud Computing,Urban,NIT Durgapur,498
+IPS,Amitabh Bachchan,Female,BTech Mining,Kanpur,20,Football,Malayalam,Management,Minimalist,IIT Kharagpur,499
+Web Developer,Rajkummar Rao,Male,BTech Electronics and Communication,Kolkata,19,Hockey,Bengali,Video Editing,Minimalist,IIT Kharagpur,500

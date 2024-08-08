@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find Similar Users</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Find Similar Users</h1>
+        <form id="buddiesForm">
+            <label for="user_id">User ID:</label>
+            <input type="number" id="user_id" name="user_id" required>
+            <label for="top_n">Number of Similar Users:</label>
+            <input type="number" id="top_n" name="top_n" required>
+            <button type="submit">Find Buddies</button>
+        </form>
+        <div id="results"></div>
+    </div>
+    <script>
+        document.getElementById('buddiesForm').addEventListener('submit', async function(e) {
+            e.preventDefault();
+            const userId = document.getElementById('user_id').value;
+            const topN = document.getElementById('top_n').value;
+            const response = await fetch(`/find_buddies?user_id=${userId}&top_n=${topN}`);
+            const data = await response.json();
+            document.getElementById('results').innerHTML = `<h2>Top ${topN} similar users for User ${userId}:</h2><ul>${data.buddies.map(user => `<li>${user}</li>`).join('')}</ul>`;
+        });
+    </script>
+</body>
+</html>
